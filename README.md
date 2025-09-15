@@ -22,10 +22,11 @@ It provides a clean interface to search, filter, and track opportunities in fina
 An automation tool that generates tailored cover letters from a job posting or link.  
 It integrates personal CV details and supports output in both English and French.
 
-### OCR QCM Solver (coming soon)
-An experimental tool that captures questions from multiple-choice exams using OCR,  
+### [OCR QCM Solver](https://github.com/Marianoooo45/ocr-qcm-ctk)
+An experimental tool that captures multiple-choice exam questions via OCR,  
 parses the text, and leverages AI to provide real-time answers.  
-Currently under development and will be shared once cleaned for release.
+Built with **CustomTkinter**, supports **OpenAI, Anthropic, and Gemini models**,  
+and integrates **Discord/Telegram outputs**.  
 
 ---
 
