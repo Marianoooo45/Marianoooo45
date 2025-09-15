@@ -1,6 +1,6 @@
 <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" width="100%" />
 
-# Hi, I'm Aurélien
+# Hi, I'm Aurelien
 
 I am a Master student in Financial Markets, currently looking for opportunities in Sales & Trading and Market Finance.  
 My background includes experience in **structured products, fixed income, and equity derivatives**, with previous internships at Société Générale and HSBC.
