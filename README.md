@@ -15,7 +15,7 @@ My background includes experience in **structured products, fixed income, and eq
 
 ## Featured Projects
 ### [Job Alert](https://job-alert-eta.vercel.app)
-A personal project that scrapes job postings from nearly 100 career websites.  
+A personal project that scrapes job postings from nearly 100 career websites (banks, brokers, hedge funds, trading houses...).  
 It provides a clean interface to search, filter, and track opportunities in finance and beyond.
 
 ### [Cover Letter Generator](https://github.com/Marianoooo45/bank_cover_letter_generator)
