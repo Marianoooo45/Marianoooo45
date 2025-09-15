@@ -5,7 +5,7 @@
 I am a Master student in Financial Markets, currently looking for opportunities in Sales & Trading and Market Finance.  
 My background includes experience in **structured products, fixed income, and equity derivatives**, with previous internships at Société Générale and HSBC.
 
-<img src="https://i.imgur.com/fOZeaHW.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Marianoooo45/Marianoooo45/main/fOZeaHW_slowed.gif" width="100%" />
 
 ## About me
 - Passionate about **market finance**, with strong knowledge of trading desks, structured products, and risk solutions.  
@@ -13,7 +13,7 @@ My background includes experience in **structured products, fixed income, and eq
 - Always exploring new ideas at the intersection of **finance and technology**.  
 - Dark mode enthusiast, inspired by **Tokyo Night** and neon vibes.  
 
-<img src="https://i.imgur.com/fOZeaHW.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Marianoooo45/Marianoooo45/main/fOZeaHW_slowed.gif" width="100%" />
 
 ## Featured Projects
 ### [Job Alert](https://job-alert-eta.vercel.app)
@@ -30,20 +30,20 @@ parses the text, and leverages AI to provide real-time answers.
 Built with **CustomTkinter**, supports **OpenAI, Anthropic, and Gemini models**,  
 and integrates **Discord/Telegram outputs**.  
 
-<img src="https://i.imgur.com/fOZeaHW.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Marianoooo45/Marianoooo45/main/fOZeaHW_slowed.gif" width="100%" />
 
 ## Skills
 - **Finance:** Equity Derivatives, Fixed Income, Structured Products  
 - **Experience:** Sales & Trading at Société Générale and HSBC  
 - **Tech interests:** Python, automation, web scraping, OCR, front-end integration
 
-<img src="https://i.imgur.com/fOZeaHW.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Marianoooo45/Marianoooo45/main/fOZeaHW_slowed.gif" width="100%" />
 
 ## Get in touch
 - LinkedIn: [Aurélien Gouyou](https://www.linkedin.com/in/aur%C3%A9lien-gouyou-8606bb180/)  
 - Email: [aurelien.gouyou@essca.eu](mailto:aurelien.gouyou@essca.eu)
 
-<img src="https://i.imgur.com/fOZeaHW.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Marianoooo45/Marianoooo45/main/fOZeaHW_slowed.gif" width="100%" />
 
 ### Collaboration
 I am open to collaborations, discussions, and exploring new projects in market finance and technology. Feel free to fork my projects or reach out.
