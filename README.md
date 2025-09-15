@@ -13,17 +13,26 @@ My background includes experience in **structured products, fixed income, and eq
 
 ---
 
-## Featured Project
+## Featured Projects
 ### [Job Alert](https://job-alert-eta.vercel.app)
 A personal project that scrapes job postings from nearly 100 career websites.  
 It provides a clean interface to search, filter, and track opportunities in finance and beyond.
+
+### Cover Letter Generator
+An automation tool that generates tailored cover letters from a job posting or link.  
+It integrates personal CV details and supports output in both English and French.
+
+### OCR QCM Solver (coming soon)
+An experimental tool that captures questions from multiple-choice exams using OCR,  
+parses the text, and leverages AI to provide real-time answers.  
+Currently under development and will be shared once cleaned for release.
 
 ---
 
 ## Skills
 - **Finance:** Equity Derivatives, Fixed Income, Structured Products  
 - **Experience:** Sales & Trading at Société Générale and HSBC  
-- **Tech interests:** Python, automation, web scraping, front-end integration
+- **Tech interests:** Python, automation, web scraping, OCR, front-end integration
 
 ---
 
