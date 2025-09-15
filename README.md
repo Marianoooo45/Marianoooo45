@@ -1,4 +1,4 @@
-# Hi, I'm Aurélien (Marianoooo45)
+# Hi, I'm Aurélien
 
 I am a Master student in Financial Markets, currently looking for opportunities in Sales & Trading and Market Finance.  
 My background includes experience in **structured products, fixed income, and equity derivatives**, with previous internships at Société Générale and HSBC.
