@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Aurélien%20Gouyou&fontSize=50&fontColor=38bdf8&animation=fadeIn&fontAlignY=35)
 # Hi, I'm Aurélien
 
 I am a Master student in Financial Markets, currently looking for opportunities in Sales & Trading and Market Finance.  
