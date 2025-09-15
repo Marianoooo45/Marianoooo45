@@ -18,7 +18,7 @@ My background includes experience in **structured products, fixed income, and eq
 A personal project that scrapes job postings from nearly 100 career websites.  
 It provides a clean interface to search, filter, and track opportunities in finance and beyond.
 
-### Cover Letter Generator
+### [Cover Letter Generator](https://github.com/Marianoooo45/bank_cover_letter_generator)
 An automation tool that generates tailored cover letters from a job posting or link.  
 It integrates personal CV details and supports output in both English and French.
 
