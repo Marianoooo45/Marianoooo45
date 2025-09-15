@@ -5,7 +5,7 @@
 I am a Master student in Financial Markets, currently looking for opportunities in Sales & Trading and Market Finance.  
 My background includes experience in **structured products, fixed income, and equity derivatives**, with previous internships at Société Générale and HSBC.
 
-<img src="https://raw.githubusercontent.com/Marianoooo45/Marianoooo45/main/fOZeaHW_slowed.gif" width="100%" />
+<img src="https://media1.tenor.com/m/8_VFWOEL4CEAAAAd/red-divider.gif" width="100%" />
 
 ## About me
 - Passionate about **market finance**, with strong knowledge of trading desks, structured products, and risk solutions.  
