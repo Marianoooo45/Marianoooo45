@@ -20,7 +20,7 @@ My background includes experience in **structured products, fixed income, and eq
 A personal project that scrapes job postings from nearly 100 career websites (banks, brokers, hedge funds, trading houses...).  
 It provides a clean interface to search, filter, and track opportunities in finance and beyond.
 
-### [Sigma Arena](https://sigma-arena.vercel.app/play)
+### [Sigma Arena (In Progress)](https://sigma-arena.vercel.app/play)
 A gamified training platform designed around the main domains of financial markets.  
 Players progress through levels with quiz-based challenges tied to topics such as rates, credit, equities, FX, structured products, and risk management.  
 The long-term goal is to make it a fun and interactive way to practice finance concepts — potentially even with a PvP mode in the future.
