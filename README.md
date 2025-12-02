@@ -2,7 +2,7 @@
 
 # Hi, I'm Aurelien
 
-I am a Master student in Financial Markets, currently looking for opportunities in Sales & Trading and Market Finance.  
+I am a Master student in Financial Markets, currently looking for opportunities in Financial Markets & Data.  
 My background includes experience in **structured products, fixed income, and equity derivatives**, with previous internships at Société Générale and HSBC.
 
 ---
